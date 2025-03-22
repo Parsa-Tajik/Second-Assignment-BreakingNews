@@ -1,62 +1,41 @@
 # Project Title
 
-Simple overview of use/purpose.
+Latest News Project
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this project, the user is able to choose and read the latest news articles, as well as add or remove them from their favorites list.
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* do not modify any files or folders.
+* run the program
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* After launching the program, you will be presented with a menu. From this menu, you can choose to either:
 
+  * View the latest news articles
+
+  * View your list of favorite articles
+
+  * Exit the program
+
+
+* Upon selecting the option to view the latest news, a list of article titles will be displayed. You can then choose a specific article to read.
+
+
+* On the article page, you will have the following options:
+
+  * Press 0 to return to the article list.
+
+  * Press 1 to add the article to your favorites list (if it is not already in the list) or to remove it from the favorites list (if it is already included).
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+If the program fails to load any news, it may be due to issues with the source website. In such cases, users should wait until the problem is resolved before trying again.
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* Parsa Tajik
